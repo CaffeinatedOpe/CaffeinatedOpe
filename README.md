@@ -18,6 +18,10 @@ I've done a huge variety of software and hardware projects, some of which are or
 and with the following software:
 * linux
 * Jenkins
+* Platformio
+* buildroot
+* esphome
+* Docker
 * Flux
 * k3s
 * Nix/NixOS
