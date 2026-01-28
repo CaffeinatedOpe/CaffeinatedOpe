@@ -14,18 +14,9 @@ I've done a huge variety of software and hardware projects, some of which are or
 * Python
 * Rust
 * Java
-<!---->
-and with the following software:
-* linux
-* Jenkins
-* Platformio
-* buildroot
-* esphome
 * Docker
-* Flux
-* k3s
-* Nix/NixOS
-* Freecad
-* Svelte
-* Astro
-* xlights
+* Kubernetes
+* CI/CD
+* Declarative Configuration/Infrastructure as Code
+* embedded systems
+<!---->
