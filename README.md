@@ -9,6 +9,7 @@
 [![Bluesky followers](https://img.shields.io/bluesky/followers/caffeinatedope.bsky.social)](https://bsky.app/profile/caffeinatedope.bsky.social)
 [![Bluesky posts](https://img.shields.io/bluesky/posts/caffeinatedope.bsky.social)](https://bsky.app/profile/caffeinatedope.bsky.social)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/115979050110951163)](https://mastodon.social/@CaffeinatedOpe)  
+Jackass of all trades.
 I've done a variety of software and hardware projects, some of which are or will be uploaded to my [github](https://github.com/CaffeinatedOpe) and to [my blog](https://caffeinatedope.net). I'm confident with hardware and software work, and I have experience in:
 * C/C++
 * JavaScript
