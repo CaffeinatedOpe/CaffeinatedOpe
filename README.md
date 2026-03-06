@@ -1,9 +1,12 @@
 # Hi, I'm CaffeinatedOpe!
+
 ### caffeinated (ˈka-fə-ˌnā-təd)
 1. stimulated by or as if by caffeine
 ### ope (ˈōp)
 1. an exclamation of surprise
-  
+
+Most of my stuff is on [Codeberg](https://codeberg.org/CaffeinatedOpe), you should check it out there.
+
 [![GitHub followers](https://img.shields.io/github/followers/CaffeinatedOpe)](https://github.com/caffeinatedope)
 [![GitHub User's stars](https://img.shields.io/github/stars/CaffeinatedOpe)](https://github.com/caffeinatedope)
 [![Bluesky followers](https://img.shields.io/bluesky/followers/caffeinatedope.bsky.social)](https://bsky.app/profile/caffeinatedope.bsky.social)
